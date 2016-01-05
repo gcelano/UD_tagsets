@@ -1,9 +1,9 @@
 {
     "relations": {
         "labels": {
-            "acomp": {
-                "short": "acomp",
-                "long": "adjectival complement"
+            "acl": {
+                "short": "acl",
+                "long": "adjectival clause"
             },
             "advcl": {
                 "short": "advcl",
@@ -97,9 +97,9 @@
                 "short": "neg",
                 "long": "negation modifier"
             },
-            "nn": {
-                "short": "nn",
-                "long": "noun compound modifier"
+            "nmod": {
+                "short": "nmod",
+                "long": "nominal modifier"
             },
             "npadvmod": {
                 "short": "npadvmod",
@@ -113,8 +113,8 @@
                 "short": "nsubjpass",
                 "long": "passive nominal subject"
             },
-            "num": {
-                "short": "num",
+            "nummod": {
+                "short": "nummod",
                 "long": "numeric modifier"
             },
             "number": {
