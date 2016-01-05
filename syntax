@@ -121,10 +121,6 @@
                 "short": "nmod",
                 "long": "nominal modifier"
             },
-            "npadvmod": {
-                "short": "npadvmod",
-                "long": "noun phrase as adverbial modifier"
-            },
             "nsubj": {
                 "short": "nsubj",
                 "long": "nominal subject"
@@ -137,61 +133,13 @@
                 "short": "nummod",
                 "long": "numeric modifier"
             },
-            "number": {
-                "short": "number",
-                "long": "element of compound number"
-            },
             "parataxis": {
                 "short": "parataxis",
                 "long": "parataxis"
             },
-            "pcomp": {
-                "short": "pcomp",
-                "long": "prepositional complement"
-            },
-            "pobj": {
-                "short": "pobj",
-                "long": "object of a preposition"
-            },
-            "poss": {
-                "short": "poss",
-                "long": "possession modifier"
-            },
-            "possessive": {
-                "short": "possessive",
-                "long": "possessive modifier"
-            },
-            "preconjunct": {
-                "short": "preconjunct",
-                "long": "preconjunct"
-            },
-            "predet": {
-                "short": "predet",
-                "long": "predeterminer"
-            },
-            "prep": {
-                "short": "prep",
-                "long": "prepositional modifier"
-            },
-            "prepc": {
-                "short": "prepc",
-                "long": "prepositional clausal modifier"
-            },
-            "prt": {
-                "short": "prt",
-                "long": "phrasal verb particle"
-            },
             "punct": {
                 "short": "punct",
                 "long": "punctuation"
-            },
-            "quantmod": {
-                "short": "quantmod",
-                "long": "quantifier phrase modifier"
-            },
-            "ref": {
-                "short": "ref",
-                "long": "referent"
             },
             "remnant": {
                 "short": "remnant",
@@ -205,14 +153,6 @@
                 "short": "root",
                 "long": "root"
             },
-            "tmod": {
-                "short": "tmod",
-                "long": "temporal modifier"
-            },
-            "vmod": {
-                "short": "vmod",
-                "long": "reduced non-finite verbal modifier"
-            },
             "vocative": {
                 "short": "vocative",
                 "long": "vocative"
@@ -220,10 +160,6 @@
             "xcomp": {
                 "short": "xcomp",
                 "long": "open clausal complement"
-            },
-            "xsubj": {
-                "short": "xsubj",
-                "long": "controlling subject"
             }
         }
     }
