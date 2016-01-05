@@ -33,6 +33,10 @@
                 "short": "auxpass",
                 "long": "passive auxiliary"
             },
+            "case": {
+                "short": "case",
+                "long": "case marking"
+            },
             "cc": {
                 "short": "cc",
                 "long": "coordination"
@@ -44,6 +48,10 @@
             "conj": {
                 "short": "conj",
                 "long": "conjunct"
+            },
+            "compound": {
+                "short": "compound",
+                "long": "compound"
             },
             "cop": {
                 "short": "cop",
@@ -69,6 +77,10 @@
                 "short": "discourse",
                 "long": "discourse element"
             },
+            "dislocated": {
+                "short": "dislocated",
+                "long": "dislocated element"
+            },
             "dobj": {
                 "short": "dobj",
                 "long": "expletive"
@@ -76,6 +88,10 @@
             "expl": {
                 "short": "expl",
                 "long": "expletive"
+            },
+            "foreign": {
+                "short": "foreign",
+                "long": "foreign"
             },
             "goeswith": {
                 "short": "goeswith",
@@ -85,6 +101,10 @@
                 "short": "iobj",
                 "long": "indirect object"
             },
+            "list": {
+                "short": "list",
+                "long": "list"
+            },
             "mark": {
                 "short": "mark",
                 "long": "marker"
@@ -92,6 +112,10 @@
             "mwe": {
                 "short": "mwe",
                 "long": "multi-word expression"
+            },
+            "name": {
+                "short": "name",
+                "long": "name"
             },
             "neg": {
                 "short": "neg",
@@ -172,6 +196,14 @@
             "ref": {
                 "short": "ref",
                 "long": "referent"
+            },
+            "remnant": {
+                "short": "remnant",
+                "long": "remnant"
+            },
+            "reparandum": {
+                "short": "reparandum",
+                "long": "reparandum"
             },
             "root": {
                 "short": "root",
