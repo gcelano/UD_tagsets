@@ -13,10 +13,6 @@
                 "short": "advmod",
                 "long": "adverbial modifier"
             },
-            "agent": {
-                "short": "agent",
-                "long": "agent"
-            },
             "amod": {
                 "short": "amod",
                 "long": "adjectival modifier"
@@ -39,7 +35,7 @@
             },
             "cc": {
                 "short": "cc",
-                "long": "coordination"
+                "long": "coordinating conjunction"
             },
             "ccomp": {
                 "short": "ccomp",
