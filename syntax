@@ -83,7 +83,7 @@
             },
             "dobj": {
                 "short": "dobj",
-                "long": "expletive"
+                "long": "direct object"
             },
             "expl": {
                 "short": "expl",
@@ -216,6 +216,10 @@
             "vmod": {
                 "short": "vmod",
                 "long": "reduced non-finite verbal modifier"
+            },
+            "vocative": {
+                "short": "vocative",
+                "long": "vocative"
             },
             "xcomp": {
                 "short": "xcomp",
