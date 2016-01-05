@@ -41,13 +41,13 @@
                 "short": "ccomp",
                 "long": "clausal complement"
             },
-            "conj": {
-                "short": "conj",
-                "long": "conjunct"
-            },
             "compound": {
                 "short": "compound",
                 "long": "compound"
+            },
+            "conj": {
+                "short": "conj",
+                "long": "conjunct"
             },
             "cop": {
                 "short": "cop",
